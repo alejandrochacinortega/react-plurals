@@ -1,0 +1,14 @@
+{
+  "name": "ReactKidGame",
+  "version": "1.0.0",
+  "description": "Kid Game",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "Omar Chacin",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^1.13.1"
+  }
+}
